@@ -12,7 +12,7 @@ def pred_output(user_input):
 
 def main(): 
     st.title('Iris Classification')
-    st.text('Developed by - www.rubangino.in')
+    st.text('Developed by - Ajeetkumar-ukande')
 
     st.divider()
 
